@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Murat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h2>
+<h1 align="left">Hi I'm Murat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 ### ✨ &nbsp;About Me
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Current Projects
+### 🚀 &nbsp;Current Projects
 
 I'm currently involved in several projects. Here's a brief overview, and you can click on each to learn more:
 
