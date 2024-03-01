@@ -1,4 +1,4 @@
-<h1 align="left">Hi I'm Murat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
+<img width="1834" alt="memoji banner" src="https://github.com/muratlevent/muratlevent/assets/114761006/d796772c-96b8-4ea1-8b22-b99aa9f5aabb">
 
 ### ✨ &nbsp;About Me
 
