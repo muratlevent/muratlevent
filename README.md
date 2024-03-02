@@ -1,9 +1,9 @@
-<img width="1834" alt="memoji banner" src="https://github.com/muratlevent/muratlevent/assets/114761006/d796772c-96b8-4ea1-8b22-b99aa9f5aabb">
+<img width="1834" alt="memoji banner" src="https://github.com/muratlevent/muratlevent/assets/114761006/254acf77-ab0d-47eb-9176-45bf88403e43">
 
 ### ✨ &nbsp;About Me
 
 <p align="left">
-  I'm an aspiring software developer with a passion for creating impactful solutions. My journey in programming began with Java, and I've since expanded my skills to include technologies like Spring Boot, HTML5, CSS3, JavaScript, and MySQL.
+  My journey in programming began with Java, and I've since expanded my skills to include technologies like Spring Boot, HTML5, CSS3, JavaScript, and MySQL.
 </p>
 
 <p align="left">
