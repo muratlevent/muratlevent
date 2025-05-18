@@ -67,8 +67,8 @@ I'm currently involved in several projects. Here's a brief overview, and you can
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muratlevent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muratlevent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=muratlevent&theme=react&hide_border=true" height="150" alt="muratlevent's GitHub Stats" />
+  <img <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratlevent&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="muratlevent's GitHub Stats" />
 </div>
 
 <br clear="both">
