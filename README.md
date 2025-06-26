@@ -67,7 +67,6 @@ I'm currently involved in several projects. Here's a brief overview, and you can
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muratlevent&theme=react&hide_border=true" height="150" alt="muratlevent's GitHub Stats" />
   <img <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratlevent&theme=react&show_icons=true&hide_border=true&layout=compact" height="150" alt="muratlevent's GitHub Stats" />
 </div>
 
